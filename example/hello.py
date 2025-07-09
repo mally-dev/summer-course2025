@@ -1,3 +1,4 @@
 print("Hello,world!")
 print("second line")
-print（"thied line"）
+print("third line")
+print ('fourth line')
